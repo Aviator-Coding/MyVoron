@@ -7,3 +7,6 @@
 [submodule "MMU/EnragedRabbitProject"]
 	path = MMU/EnragedRabbitProject
 	url = https://github.com/EtteGit/EnragedRabbitProject.git
+[submodule "Mods/Filter/Nevermore_Micro"]
+	path = Mods/Filter/Nevermore_Micro
+	url = https://github.com/nevermore3d/Nevermore_Micro.git
