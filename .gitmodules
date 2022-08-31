@@ -7,3 +7,6 @@
 [submodule "Mods/Filter/Nevermore_Micro"]
 	path = Mods/Filter/Nevermore_Micro
 	url = https://github.com/nevermore3d/Nevermore_Micro.git
+[submodule "Mods/Euclid_Probe"]
+	path = Mods/Euclid_Probe
+	url = https://github.com/nionio6915/Euclid_Probe.git
