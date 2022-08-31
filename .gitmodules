@@ -1,6 +1,3 @@
-[submodule "Mods/Klicky-Probe"]
-	path = Mods/Klicky-Probe
-	url = https://github.com/jlas1/Klicky-Probe
 [submodule "Extruder/Galileo/Galileo-stealthBurner"]
 	path = Extruder/Galileo/Galileo-stealthBurner
 	url = https://github.com/Mamsih/Galileo-stealthBurner
