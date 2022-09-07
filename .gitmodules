@@ -10,3 +10,6 @@
 [submodule "Mods/Euclid_Probe"]
 	path = Mods/Euclid_Probe
 	url = https://github.com/nionio6915/Euclid_Probe.git
+[submodule "Mods\\Filter\\Nevermore-Klipper"]
+	path = Mods\\Filter\\Nevermore-Klipper
+	url = https://github.com/top-gun/Nevermore-Klipper.git
